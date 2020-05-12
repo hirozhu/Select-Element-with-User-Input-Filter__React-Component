@@ -1,0 +1,10 @@
+.inputbox {
+    height: 20px;
+    width: 200px;
+}
+
+.chosen {
+    height: 20px;
+    width: 200px;
+    background-color: lightGray;
+}
